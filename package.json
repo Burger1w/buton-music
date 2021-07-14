@@ -20,5 +20,14 @@
     "solenolyrics": "^5.0.0",
     "youtube-sr": "^4.1.1",
     "ytdl-core": "^4.8.3"
-  }
+      },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express",
+    "wasty"
+  ]
 }
