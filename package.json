@@ -1,10 +1,10 @@
 {
   "name": "music-bot-with-buttons",
   "version": "1.0.0",
-  "description": "",
+  "description": "xd",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
@@ -24,10 +24,13 @@
   "engines": {
     "node": "12.x"
   },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
   "keywords": [
     "node",
     "glitch",
-    "express",
-    "wasty"
+    "express"
   ]
 }
